@@ -23,5 +23,6 @@ def last_evaluated_value
 end
 
 def pizza_party
-  return "#{topping}"
+ puts "#{phrase}"
+ return "#{phrase}"
 end
