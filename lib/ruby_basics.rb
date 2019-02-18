@@ -1,26 +1,25 @@
 def division(num1, num2)
-  42 / 7
+  return num1 / num2
 end
 
 def assign_variable(value)
- name = "Bob"
+ name = value
 end
 
 def argue
-return "#{phrase}"
+return comment
 end
 
 def greeting
- puts greeting = "Hi there,"
-  return name = "Bobby!"
+ return greeting + name
 end
 
 def return_a_value
-  return phrase = "Nice"
+  return "Nice"
 end
 
 def last_evaluated_value
- return phrase = "expert"
+ return "expert"
 end
 
 def pizza_party
